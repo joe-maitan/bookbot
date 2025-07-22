@@ -9,6 +9,6 @@ You will need to create a ```books``` directory to store your books in.
 
 Then to run the main program you can type:
 ```
-python3 main.py <path_to_book>"
+python3 main.py <path_to_book>
 ```
 
