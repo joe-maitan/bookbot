@@ -13,7 +13,7 @@ This is my preferred method to help you get an idea of what the code does.
    ```
 2. Run the container. This will by default read ```frankenstein.txt```.
    ```
-   docker run -rm book-bot
+   docker run --rm book-bot
    ```
    ```rm``` will remove the container after it has exited.
 
@@ -30,5 +30,6 @@ Then to run the main program you can type:
 ```
 python3 main.py <path_to_book>
 ```
+
 
 
